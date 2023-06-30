@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #00c28e;
+    background-color: #052119;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -9,7 +9,7 @@
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-    color: #ffffff;
+    color: #6a0c0c;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -22,8 +22,13 @@ h4 {
 }
 
 .date {
-    color: #828282;
+    color: #077e88;
 }
+
+h1 a, h2 a {
+    color: #C25100;
+}
+
 
 .save {
     float: right;
